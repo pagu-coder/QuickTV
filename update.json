@@ -1,9 +1,9 @@
 {
-  "enabled": false,
-  "package": "com.waxmoon.ma.gp",
-  "current_version": "3.0.2",
+  "enabled": true,
+  "package": "in.mohalla.quicktv",
+  "current_version": "2026.18.01",
   "latest_version": "999.999",
-  "force_update": false,
+  "force_update": true,
   "logo_url": "",
   "headline": "🔥 New Update Available 🔥",
   "headline_color": "#000000",
